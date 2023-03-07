@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "vuedraggable": "/node-modules/vuedraggable/dist/vuedraggable.umd"
+  }
+}

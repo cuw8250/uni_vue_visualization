@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "info": "/components/Edit/Info",
+    "images": "/components/Edit/Image",
+    "product": "/components/Edit/Product",
+    "uni-banner": "/components/Edit/UniBanner"
+  }
+}

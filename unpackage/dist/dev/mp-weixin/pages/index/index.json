@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+    "edit-form": "/components/Edit/index",
+    "draggable": "/node-modules/vuedraggable/dist/vuedraggable.umd",
+    "product": "/components/View/Product",
+    "images": "/components/View/Images",
+    "banner": "/components/View/Banner",
+    "uni-banner": "/components/View/UniBanner"
+  }
+}
